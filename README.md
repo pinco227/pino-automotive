@@ -1,5 +1,5 @@
-[![Screenshot](https://github.com/pinco227/pino-automotive/blob/main/images/screenshot.png)](https://pinco227.github.io/pino-automotive/)
-# Pi-Design
+[![Screenshot](https://github.com/pinco227/pino-automotive/blob/main/images/screenshot.jpg)](https://pinco227.github.io/pino-automotive/)
+# Pi-NO Automotive
 ## 2011
 ### HTML, CSS, JS, Photoshop
 
